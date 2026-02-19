@@ -3,6 +3,7 @@ Fido2 authentication for Windows desktop applications
 
 Based on https://github.com/borrrden/Fido2Net
 
+### Run
 Needs `Fido2.dll` file from https://github.com/Yubico/libfido2 in executable (bin) folder
 
 ### Example of use
